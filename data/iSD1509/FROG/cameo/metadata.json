@@ -1,0 +1,22 @@
+{
+  "model_location": "./model.xml",
+  "model_md5": "c8ea98f47e2cab971cfd386d05a13179",
+  "frog_id": "cameo_tsv",
+  "frog_software": {
+    "name": "fbc_curation",
+    "version": "0.2.0",
+    "url": "https://doi.org/10.5281/zenodo.3708271"
+  },
+  "curators": [],
+  "software": {
+    "name": "cameo",
+    "version": "0.13.6",
+    "url": "https://github.com/opencobra/cobrapy"
+  },
+  "solver": {
+    "name": "glpk",
+    "version": "5.0",
+    "url": null
+  },
+  "environment": "posix, Linux, 6.0.8-1-default"
+}
