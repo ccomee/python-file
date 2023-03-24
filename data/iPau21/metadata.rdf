@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2006/vcard/ns#">
+  <rdf:Description rdf:about=".">
+    <dcterms:creator>
+      <rdf:Bag>
+        <rdf:li rdf:parseType="Resource">
+          <vCard:n rdf:parseType="Resource">
+            <vCard:family-name>Payne</vCard:family-name>
+            <vCard:given-name>Dawson</vCard:given-name>
+          </vCard:n>
+          <vCard:email>ddp5rq@virginia.edu</vCard:email>
+          <vCard:org rdf:parseType="Resource">
+            <vCard:organization-name>University of Virginia</vCard:organization-name>
+          </vCard:org>
+        </rdf:li>
+      </rdf:Bag>
+    </dcterms:creator>
+    <dcterms:creator>
+      <rdf:Bag>
+        <rdf:li rdf:parseType="Resource">
+          <vCard:n rdf:parseType="Resource">
+            <vCard:family-name>Renz</vCard:family-name>
+            <vCard:given-name>Alina</vCard:given-name>
+          </vCard:n>
+          <vCard:email>renz@informatik.uni-tuebingen.de</vCard:email>
+          <vCard:org rdf:parseType="Resource">
+            <vCard:organization-name>University of Tübingen</vCard:organization-name>
+          </vCard:org>
+        </rdf:li>
+      </rdf:Bag>
+    </dcterms:creator>
+    <dcterms:creator>
+      <rdf:Bag>
+        <rdf:li rdf:parseType="Resource">
+          <vCard:n rdf:parseType="Resource">
+            <vCard:family-name>Laura</vCard:family-name>
+            <vCard:given-name>Dunphy</vCard:given-name>
+          </vCard:n>
+          <vCard:email>ldunphy68@gmail.com</vCard:email>
+          <vCard:org rdf:parseType="Resource">
+            <vCard:organization-name>University of Virginia</vCard:organization-name>
+          </vCard:org>
+        </rdf:li>
+      </rdf:Bag>
+    </dcterms:creator>
+    <dcterms:creator>
+      <rdf:Bag>
+        <rdf:li rdf:parseType="Resource">
+          <vCard:n rdf:parseType="Resource">
+            <vCard:family-name>Taylor</vCard:family-name>
+            <vCard:given-name>Lewis</vCard:given-name>
+          </vCard:n>
+          <vCard:email>trlewis2019@gmail.com</vCard:email>
+	        <vCard:org rdf:parseType="Resource">
+            <vCard:organization-name>University of Massachusetts Amherst</vCard:organization-name>
+          </vCard:org>
+        </rdf:li>
+      </rdf:Bag>
+    </dcterms:creator>
+    <dcterms:creator>
+      <rdf:Bag>
+        <rdf:li rdf:parseType="Resource">
+          <vCard:n rdf:parseType="Resource">
+            <vCard:family-name>Dräger</vCard:family-name>
+            <vCard:given-name>Andreas</vCard:given-name>
+          </vCard:n>
+          <vCard:email>draeger@informatik.uni-tuebingen.de</vCard:email>
+          <vCard:org rdf:parseType="Resource">
+            <vCard:organization-name>University of Tübingen</vCard:organization-name>
+          </vCard:org>
+        </rdf:li>
+      </rdf:Bag>
+    </dcterms:creator>
+    <dcterms:creator>
+      <rdf:Bag>
+        <rdf:li rdf:parseType="Resource">
+          <vCard:n rdf:parseType="Resource">
+            <vCard:family-name>Jason</vCard:family-name>
+            <vCard:given-name>Papin</vCard:given-name>
+          </vCard:n>
+          <vCard:email>papin@virginia.edu</vCard:email>
+          <vCard:org rdf:parseType="Resource">
+            <vCard:organization-name>University of Virginia</vCard:organization-name>
+          </vCard:org>
+        </rdf:li>
+      </rdf:Bag>
+    </dcterms:creator>
+    <dcterms:created rdf:parseType="Resource">
+      <dcterms:W3CDTF>2021-03-04T17:32:32Z</dcterms:W3CDTF>
+    </dcterms:created>
+    <dcterms:modified rdf:parseType="Resource">
+      <dcterms:W3CDTF>2021-06-11T15:14:27Z</dcterms:W3CDTF>
+      <dcterms:W3CDTF>2021-06-03T22:53:12Z</dcterms:W3CDTF>
+      <dcterms:W3CDTF>2021-03-04T17:32:32Z</dcterms:W3CDTF>
+    </dcterms:modified>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<omexManifest xmlns="http://identifiers.org/combine.specifications/omex-manifest">
+  <content master="false" location="."                     format="http://identifiers.org/combine.specifications/omex" />
+  <content master="false" location="./manifest.xml"        format="http://identifiers.org/combine.specifications/omex-manifest" />
+  <content master="true"  location="./iPau21.xml"          format="http://identifiers.org/combine.specifications/sbml.level-3.version-1" />
+  <content master="false" location="./iPau21_Glycans.sbml" format="http://identifiers.org/combine.specifications/sbml.level-3.version-1" />
+  <content master="false" location="./iPau21_MUC5AC.sbml"  format="http://identifiers.org/combine.specifications/sbml.level-3.version-1" />
+  <content master="false" location="./iPau21_MUC5B.sbml"   format="http://identifiers.org/combine.specifications/sbml.level-3.version-1" />
+  <content master="false" location="./iPau21_ABTGC.sbml"   format="http://identifiers.org/combine.specifications/sbml.level-3.version-1" />
+  <content master="false" location="./metadata.rdf"        format="http://identifiers.org/combine.specifications/omex-metadata" />
+</omexManifest>
